@@ -1,7 +1,7 @@
 rearg
 =====
 
-This library helps you to make your methods more flexible by managing arguments list. Just use one of wrappers to define your method. Wrapper prepares arguments list due to described pattern and call your original method.
+This library helps you to make your methods more flexible by managing arguments list. Just use one of wrappers to define your method. Wrapper prepares arguments list due to described pattern and calls your original method.
 
 Wrappers
 ========
