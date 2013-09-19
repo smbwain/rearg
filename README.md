@@ -40,7 +40,7 @@ If you use type "O" (any Object), you can't use types "d" (Date), "r" (RegExp), 
 rearg.expand(pattern, func)
 ------
 
-Extend wrapper is used when you want to keep original order of arguments, but you want let caller to miss some of them. Just use question mark for optional params in pattern.
+Extend wrapper is used when you want to keep original order of arguments, but you want let caller to miss some of them. Just use question mark after optional params in pattern.
 This wrapper throws error, if passed arguments couldn't be interpreted due to pattern.
 
 ###E.g.
