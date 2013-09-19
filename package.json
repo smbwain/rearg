@@ -1,0 +1,33 @@
+{
+    "name": "rearg",
+    "version": "0.0.1",
+    "description": "JavaScript library for managing your functions arguments",
+    "keywords": [
+        "function",
+        "arguments",
+        "sort arguments",
+        "optional arguments"
+    ],
+    "scripts": {
+        "test": "node test.js"
+    },
+    "bugs": {
+        "url": "https://github.com/smbwain/rearg/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "author": {
+        "name": "Roman Ditchuk",
+        "email": "me@ototak.net",
+        "url": "http://ototak.net"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/smbwain/rearg.git"
+    },
+    "main": "./lib/rearg"
+}
